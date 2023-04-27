@@ -1,0 +1,18 @@
+C:\Users\PC\source\repos\Appointment App\Appointment App\bin\Debug\net6.0-windows\Appointment App.exe
+C:\Users\PC\source\repos\Appointment App\Appointment App\bin\Debug\net6.0-windows\Appointment App.deps.json
+C:\Users\PC\source\repos\Appointment App\Appointment App\bin\Debug\net6.0-windows\Appointment App.runtimeconfig.json
+C:\Users\PC\source\repos\Appointment App\Appointment App\bin\Debug\net6.0-windows\Appointment App.dll
+C:\Users\PC\source\repos\Appointment App\Appointment App\bin\Debug\net6.0-windows\Appointment App.pdb
+C:\Users\PC\source\repos\Appointment App\Appointment App\obj\Debug\net6.0-windows\Appointment App.csproj.AssemblyReference.cache
+C:\Users\PC\source\repos\Appointment App\Appointment App\obj\Debug\net6.0-windows\Appointment App.csproj.GenerateResource.cache
+C:\Users\PC\source\repos\Appointment App\Appointment App\obj\Debug\net6.0-windows\Appointment App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\source\repos\Appointment App\Appointment App\obj\Debug\net6.0-windows\Appointment App.AssemblyInfoInputs.cache
+C:\Users\PC\source\repos\Appointment App\Appointment App\obj\Debug\net6.0-windows\Appointment App.AssemblyInfo.cs
+C:\Users\PC\source\repos\Appointment App\Appointment App\obj\Debug\net6.0-windows\Appointment App.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\Appointment App\Appointment App\obj\Debug\net6.0-windows\Appointment App.dll
+C:\Users\PC\source\repos\Appointment App\Appointment App\obj\Debug\net6.0-windows\refint\Appointment App.dll
+C:\Users\PC\source\repos\Appointment App\Appointment App\obj\Debug\net6.0-windows\Appointment App.pdb
+C:\Users\PC\source\repos\Appointment App\Appointment App\obj\Debug\net6.0-windows\Appointment App.genruntimeconfig.cache
+C:\Users\PC\source\repos\Appointment App\Appointment App\obj\Debug\net6.0-windows\ref\Appointment App.dll
+C:\Users\PC\source\repos\Appointment App\Appointment App\obj\Debug\net6.0-windows\Appointment_App.Properties.Resources.resources
+C:\Users\PC\source\repos\Appointment App\Appointment App\obj\Debug\net6.0-windows\Appointment_App.mainScreen.resources
